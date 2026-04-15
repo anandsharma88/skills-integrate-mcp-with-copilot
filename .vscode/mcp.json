@@ -1,5 +1,6 @@
 {
   // This file is used to configure the MCP extension for Visual Studio Code.
+  // For more information, see the MCP extension documentation.
   "servers": {
     "github": {
       "type": "http",
